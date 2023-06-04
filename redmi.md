@@ -1,24 +1,24 @@
 <!-- this is redmi rule -->
 
-Zunaeed-Imran  
+Zunaeed-Imran
 
-two space is break  
+two space is break
 
-we can use html syntax like [<br/>] etc.  
+we can use html syntax like [<br/>] etc.
 
-horizontal rule is 3minus[---] and enter  
+horizontal rule is 3minus[---] and enter
 
 heading h1-h6 is all about #, ##, ###, ####, #####, ######.
 
-<p>this is redmi paragraph</p>  
+<p>this is redmi paragraph</p>
 
 <i>this is for font itelic size</i>
 
-_this is also Itelic_  
+_this is also Itelic_
 
-**this is bold text for redmi**  
+**this is bold text for redmi**
 
-~~This is delete tex~~  
+~~This is delete tex~~
 
 `<h1>this is for inline one line code</h1>`
 
@@ -34,10 +34,10 @@ _this is also Itelic_
     <title></title>
   </head>
   <body>
-  <p>
-    this is for multi line code and naming the language name and automitacally
-    format
-  </p>
+    <p>
+      this is for multi line code and naming the language name and automitacally
+      format
+    </p>
   </body>
 </html>
 ```
@@ -122,8 +122,9 @@ https://youtu.be/bl0-DTgh-mw
 
 ### table syntax
 
-| Name          | Email              |
-| ------------- | ------------------ |
-| Zunaeed-Imran | zunaeede@gmail.com |
-| Company       | ITLogiko           |
-| loation       | Jashore ITPark     |
+| Name          | Email                 |
+| ------------- | --------------------- |
+| Zunaeed-Imran | zunaeede@gmail.com    |
+| Company       | ITLogiko              |
+| loation       | Jashore ITPark        |
+| position      | Trainee software engr |
